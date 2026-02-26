@@ -10,7 +10,6 @@ headers = []
 publish = "C:\\Users\\mark\\Desktop\\project-bolt-sb1-9en74mtu\\project\\dist"
 publishOrigin = "config"
 commandOrigin = "config"
-base = "C:\\Users\\mark\\Desktop\\project-bolt-sb1-9en74mtu\\project"
 command = "npm run build"
 
 [build.environment]
