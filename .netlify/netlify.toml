@@ -7,7 +7,7 @@ headers = []
 [functions."*"]
 
 [build]
-publish = "C:\\Users\\mark\\Desktop\\project-bolt-sb1-9en74mtu\\project\\dist"
+publish = "C:\\Users\\mark\\Desktop\\project-bolt-sb1-9en74mtu (2)\\dist"
 publishOrigin = "config"
 commandOrigin = "config"
 command = "npm run build"
